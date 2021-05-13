@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\bin\Debug\netcoreapp3.1\WorldExercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\bin\Debug\netcoreapp3.1\WorldExercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\bin\Debug\netcoreapp3.1\WorldExercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\bin\Debug\netcoreapp3.1\WorldExercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\bin\Debug\netcoreapp3.1\WorldExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\bin\Debug\netcoreapp3.1\WorldExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\WorldExercise\obj\Debug\netcoreapp3.1\WorldExercise.genruntimeconfig.cache
